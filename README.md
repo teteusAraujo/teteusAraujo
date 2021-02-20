@@ -31,7 +31,7 @@
 - 👨‍💻 Estagiário de Engenharia de Software na **Itaú Unibanco**.
 - 🌱 Estudante de Ciência da computação.
 - 💙 Interesse: Java, Spring Boot, html, css, javaScript.
-- 👨‍💻 Gosta de jogar Free fire? É só chamar hehehe
+- :video_game: Gosta de jogar Free fire? É só chamar hehehe
 
 
 ## Skills :nerd_face:
@@ -71,6 +71,7 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
+
+ ## Total de Visitas no perfil :detective: <br>
   <img src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
 </p>
