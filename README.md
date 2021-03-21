@@ -30,8 +30,8 @@
 
 - 👨‍💻 Estagiário de Engenharia de Software na **Itaú Unibanco**.
 - 🌱 Estudante de Ciência da computação.
-- 💙 Interesse: Java, Spring Boot, html, css, javaScript.
-- :video_game: Gosta de jogar Free fire? É só chamar hehehe
+- 💙 Interesse: Java, Spring Boot, html, css, javaScript, React, c# e .net.
+- :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
 
 
 ## Skills :nerd_face:
