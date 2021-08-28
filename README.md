@@ -29,7 +29,7 @@
 ### Abstract
 
 - 👨‍💻 Engenheiro de Software Jr na **Itaú Unibanco**.
-- 🌱 Estudante de Ciência da computação, atualmente cursando o 5° semestre.
+- 🌱 Estudante de Ciência da computação, atualmente cursando o 6° semestre.
 - 💙 Interesse: Java, Kotlin, Spring Boot, html, css, javaScript, angular, c# , .net e ASP.net.
 - :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
 
