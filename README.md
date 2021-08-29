@@ -24,14 +24,15 @@
   </a>
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Abstract
+### Sobre mim
 
 - 👨‍💻 Engenheiro de Software Jr na **Itaú Unibanco**.
-- 🌱 Estudante de Ciência da computação, atualmente cursando o 6° semestre.
-- 💙 Interesse: Java, Kotlin, Spring Boot, html, css, javaScript, angular, c# , .net e ASP.net.
-- :video_game: Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
+- 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre.
+- 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker .
+- 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER HOKAGE" e hoje sou engenheiro de software, nada haver. Fã do anime Naruto , bora assistir uns filler juntos ? 
+- 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
 
 
 ## Skills :nerd_face:
@@ -44,13 +45,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
    
