@@ -15,7 +15,7 @@
       src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&show_icons=true&theme=radical"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=teteusaraujo&show_icons=true&theme=radical">
     <img
       align="center"
       height="165"
