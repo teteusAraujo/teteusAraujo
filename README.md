@@ -15,7 +15,7 @@
       src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&show_icons=true&theme=radical"
     />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=teteusaraujo&layout=compact&theme=radical)](https://github.com/teteusaraujo/github-readme-stats">
+  <a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukeofwar&layout=compact&theme=radical)](https://github.com/Lukeofwar/github-readme-stats)">
     <img
       align="center"
       height="165"
