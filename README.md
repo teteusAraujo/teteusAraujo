@@ -27,16 +27,18 @@
 ## Olá, eu sou o Mateus! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
+<div style="display: inline_block"  >
+<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+<p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
+<p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre. </p>
+<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
+<p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
+<p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
+  
+</div>
 
-- 👨‍💻 Engenheiro de Software Jr na **Itaú Unibanco**.
-- 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre.
-- 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker .
-- 🦊 Quando me perguntaram o que eu queria ser ? há uns anos atrás a minha resposta foi "SER HOKAGE" e hoje sou engenheiro de software, nada haver. Fã do anime Naruto , bora assistir uns filler juntos ? 
-- 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe
-
-
-## Skills :nerd_face:
-<p align="center">
+## Minhas skills :nerd_face:
+<div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -55,9 +57,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
    
-</p>
+</div>
 
-## Contact :iphone:
+## Meus contatos :iphone:
 
 <p align="center">
     <a href="https://github.com/teteusAraujo">
@@ -75,7 +77,7 @@
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
  </p>
