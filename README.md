@@ -30,8 +30,8 @@
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Engenheiro de Software Jr no Itaú Unibanco. </p>
-<p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 7° semestre. </p>
-<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS e Docker . </p>
+<p> - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas </p>
+<p> - 🎯 Interesse: Java, Kotlin, Spring Boot, Micronaut, API , HTML, CSS, JavaScript, Angular, AWS , kafka e Docker . </p>
 <p> - 🦊 Quando me perguntaram o que eu queria ser ? há um tempo atrás a minha resposta foi "SER HOKAGE" e hoje eu sou um engenheiro de software, nada haver kkk. Sou fã do anime Naruto , eaê, bora assistir uns filler juntos ? </p>
 <p> - 🎮 Gosta de jogar Free fire? É só chamar, vamos subir de patente juntos ou não hehehe </p>
   
